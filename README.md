@@ -50,7 +50,6 @@
 | 🔌 **[MCP Servers](https://github.com/himnay/llm-mcp)** | Custom Model Context Protocol servers exposing real-world tools (email, code, travel APIs) to LLM agents, with an [MCP gateway](https://github.com/himnay/llm-mcp-gateway) control plane |
 | 🗄️ **[Text-to-SQL](https://github.com/himnay/llm-text2sql)** | Natural-language querying over relational databases with LLM-generated, schema-aware SQL |
 | 📖 **[Open Knowledge Format](https://github.com/himnay/llm-OKF)** | Structured knowledge representation format for LLM pipelines |
-| 📚 **[learning-*](https://github.com/himnay?tab=repositories&q=learning)** | Long-running engineering notes and hands-on labs: [Kafka](https://github.com/himnay/learning-kafka), [reactive](https://github.com/himnay/learning-reactive), [Axon](https://github.com/himnay/learning-axon), [Camunda](https://github.com/himnay/learning-camunda), [Debezium](https://github.com/himnay/learning-debezium), [GraphQL](https://github.com/himnay/learning-graphql), [design patterns](https://github.com/himnay/learning-design-pattern), and more |
 
 ### 📊 GitHub stats
 
