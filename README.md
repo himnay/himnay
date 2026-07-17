@@ -43,13 +43,13 @@
 
 ### 📌 Featured work
 
-| Project | What it is |
-|---|---|
-| 🤖 **Spring AI Platform** | Multi-module LLM platform — [llm-gateway](https://github.com/himnay/llm-gateway) · [llm-chat](https://github.com/himnay/llm-chat) · [llm-rag](https://github.com/himnay/llm-rag) · [llm-mcp](https://github.com/himnay/llm-mcp) · [llm-deep-agent](https://github.com/himnay/llm-deep-agent) (agentic loops, tool registry, event streaming) |
-| 🔎 **[Hybrid RAG Engine](https://github.com/himnay/llm-rag)** | BM25 + dense retrieval with RRF, query transformation (HyDE, MultiQuery), and ONNX cross-encoder reranking — fully self-hosted |
-| 🔌 **[MCP Servers](https://github.com/himnay/llm-mcp)** | Custom Model Context Protocol servers exposing real-world tools (email, code, travel APIs) to LLM agents, with an [MCP gateway](https://github.com/himnay/llm-mcp-gateway) control plane |
-| 🗄️ **[Text-to-SQL](https://github.com/himnay/llm-text2sql)** | Natural-language querying over relational databases with LLM-generated, schema-aware SQL |
-| 📖 **[Open Knowledge Format](https://github.com/himnay/llm-OKF)** | Structured knowledge representation format for LLM pipelines |
+| Project                                                          | What it is                                                                                                                                                                                                                                                                                                                                   |
+|------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 🤖 **Spring AI Platform**                                         | Multi-module LLM platform — [llm-gateway](https://github.com/himnay/llm-gateway) · [llm-chat](https://github.com/himnay/llm-chat) · [llm-rag](https://github.com/himnay/llm-rag) · [llm-mcp](https://github.com/himnay/llm-mcp) · [llm-deep-agent](https://github.com/himnay/llm-deep-agent) (agentic loops, tool registry, event streaming) |
+| 🔎 **[Hybrid RAG Engine](https://github.com/himnay/llm-rag)**     | BM25 + dense retrieval with RRF, query transformation (HyDE, MultiQuery), and ONNX cross-encoder reranking — fully self-hosted                                                                                                                                                                                                               |
+| 🔌 **[MCP Servers](https://github.com/himnay/llm-mcp)**           | Custom Model Context Protocol servers exposing real-world tools (email, code, travel APIs) to LLM agents, with an [MCP gateway](https://github.com/himnay/llm-mcp-gateway) control plane                                                                                                                                                     |
+| 🗄️ **[Text-to-SQL](https://github.com/himnay/llm-text2sql)**     | Natural-language querying over relational databases with LLM-generated, schema-aware SQL                                                                                                                                                                                                                                                     |
+| 📖 **[Open Knowledge Format](https://github.com/himnay/llm-OKF)** | Structured knowledge representation format for LLM pipelines                                                                                                                                                                                                                                                                                 |
 
 ### 📊 GitHub stats
 
