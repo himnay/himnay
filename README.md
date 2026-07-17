@@ -1,16 +1,65 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Himanshu 👋</h1>
 
-<!--
-**himnay/himnay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Senior Java / Spring Engineer · 20 years in Banking, Finance, Insurance & Telecom · Dublin, Ireland 🇮🇪</b>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔭 What I'm working on
+
+- **Enterprise security platform** — building event-driven microservices for a global bank (Java 21, Spring Boot, Kafka, Vault, OpenShift)
+- **Spring AI platform** — a multi-module LLM platform: gateway, chat, RAG, MCP, and an agentic orchestrator with ReAct / Plan-Execute loops
+- **Production-grade RAG** — hybrid BM25 + dense retrieval over pgvector, RRF fusion, HyDE & MultiQuery transformers, in-process ONNX reranking
+- **MCP servers** — Model Context Protocol integrations for Gmail, GitHub, and flight search, plus a gateway control plane
+
+### 🧰 Tech I work with daily
+
+**Core**
+![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+
+**AI / LLM**
+![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat&logo=spring&logoColor=white)
+![LangChain4j](https://img.shields.io/badge/LangChain4j-1C3C3C?style=flat)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+
+**Platform & Cloud**
+![Kubernetes](https://img.shields.io/badge/OpenShift%20%2F%20K8s-EE0000?style=flat&logo=redhatopenshift&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+**Data & Observability**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana_Stack-F46800?style=flat&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+
+### 📌 Featured work
+
+| Project | What it is |
+|---|---|
+| 🤖 **Spring AI Platform** | Multi-module LLM platform — `llmgateway` · `llmchat` · `llmrag` · `llmmcp` · `llm-orchestrator` (agentic loops, tool registry, event streaming) |
+| 🔎 **Hybrid RAG Engine** | BM25 + dense retrieval with RRF, query transformation (HyDE, MultiQuery), and ONNX cross-encoder reranking — fully self-hosted |
+| 🔌 **MCP Servers** | Custom Model Context Protocol servers exposing real-world tools (email, code, travel APIs) to LLM agents |
+| 📚 **[learning](https://github.com/himnay/learning)** | Long-running engineering notes: Kafka internals, JVM, Kubernetes, databases, cloud, and AI — organized for deep reference |
+
+### 📊 GitHub stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=himnay&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himnay&layout=compact&hide_border=true" alt="Top languages" height="160"/>
+</p>
+
+---
+
+<p align="center"><i>Opinions are my own. Client work stays with clients — everything here is personal engineering.</i></p>
