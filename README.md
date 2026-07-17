@@ -19,14 +19,13 @@
 - **Production-grade RAG** — hybrid BM25 + dense retrieval over pgvector, RRF fusion, HyDE & MultiQuery transformers, in-process ONNX reranking
 - **MCP servers** — Model Context Protocol integrations for Gmail, GitHub, and flight search, plus a gateway control plane
 
-### 🧰 Tech I work with daily
+### 🧰 Tech Stack
 
-**Core**
-
-![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,kafka,rabbitmq,graphql,react,ts,nodejs,postgres,mongodb,cassandra,dynamodb,elasticsearch,redis,docker,kubernetes,openshift,openstack,terraform,ansible,aws,gcp,jenkins,grafana,prometheus,maven,gradle,git,github,bitbucket,idea,linux&perline=11" alt="Tech stack icons" width="100%"/>
+  </a>
+</p>
 
 **AI / LLM**
 
@@ -34,20 +33,13 @@
 ![LangChain4j](https://img.shields.io/badge/LangChain4j-1C3C3C?style=flat)
 ![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
-
-**Platform & Cloud**
-
-![Kubernetes](https://img.shields.io/badge/OpenShift%20%2F%20K8s-EE0000?style=flat&logo=redhatopenshift&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-**Data & Observability**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana_Stack-F46800?style=flat&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
+![Llama](https://img.shields.io/badge/Llama-0467DF?style=flat&logo=meta&logoColor=white)
+![Mistral](https://img.shields.io/badge/Mistral-FA520F?style=flat&logo=mistralai&logoColor=white)
+![Qwen](https://img.shields.io/badge/Qwen-615CED?style=flat&logo=qwen&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
 ### 📌 Featured work
 
@@ -65,6 +57,31 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=himnay&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himnay&layout=compact&hide_border=true" alt="Top languages" height="160"/>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=himnay&theme=dark&hide_border=true"/>
+    <img src="https://streak-stats.demolab.com?user=himnay&hide_border=true" alt="GitHub streak" height="170"/>
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himnay&theme=github_dark"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himnay&theme=default" alt="Profile summary" width="100%"/>
+  </picture>
+</p>
+
+<p align="center">
+  <img src="/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%"/>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/himnay/himnay/output/github-snake-dark.svg"/>
+    <img src="https://raw.githubusercontent.com/himnay/himnay/output/github-snake.svg" alt="Contribution snake"/>
+  </picture>
 </p>
 
 ---
