@@ -12,14 +12,14 @@
 
 ---
 
-### <span style="color:hsl(210,68%,44%)">🔭 What I'm working on</span>
+### <span style="color:hsl(210,80%,58%)">🔭 What I'm working on</span>
 
 - **Enterprise security platform** — event-driven microservices for a global bank (Java 21, Spring Boot, Kafka, Vault, OpenShift)
 - **Spring AI platform** — a multi-module LLM platform: gateway, chat, RAG, MCP, and an agentic orchestrator with ReAct / Plan-Execute loops
 - **Production-grade RAG** — hybrid BM25 + dense retrieval over pgvector, RRF fusion, HyDE & MultiQuery transformers, in-process ONNX reranking
 - **MCP servers** — Model Context Protocol integrations for Gmail, GitHub, and flight search, plus a gateway control plane
 
-### <span style="color:hsl(300,68%,44%)">🧰 Tech Stack</span>
+### <span style="color:hsl(348,80%,58%)">🧰 Tech Stack</span>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -41,7 +41,7 @@
 ![Qwen](https://img.shields.io/badge/Qwen-615CED?style=flat&logo=qwen&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
-### <span style="color:hsl(30,68%,44%)">📌 Featured work</span>
+### <span style="color:hsl(125,80%,58%)">📌 Featured work</span>
 
 | Project                                                          | What it is                                                                                                                                                                                                                                                                                                                                   |
 |------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -53,7 +53,7 @@
 | 🧪 **[llm-eval](https://github.com/himnay/llm-eval)**             | Evaluation harness for locally-run LLMs (Ollama) — keyword-recall + LLM-as-judge scoring against a 1,500+ question set mined from personal study notes                                                                                                                                                                                       |
 | ☸️ **[learning-openshift](https://github.com/himnay/learning-openshift)** | Spring Boot Book CRUD microservice used as a vehicle for a from-scratch OpenShift manifest set (Route, BuildConfig/S2I, ImageStream, DeploymentConfig, SCC) and a deep-dive writeup on OpenShift vs EKS vs self-managed Kubernetes vs Cloud Foundry                                                                                        |
 
-### <span style="color:hsl(120,68%,32%)">📊 GitHub stats</span>
+### <span style="color:hsl(263,80%,58%)">📊 GitHub stats</span>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=himnay&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" height="160"/>
