@@ -23,17 +23,33 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,kafka,rabbitmq,graphql,react,ts,nodejs,postgres,mongodb,cassandra,dynamodb,elasticsearch,redis,docker,kubernetes,openshift,openstack,terraform,ansible,aws,gcp,jenkins,grafana,prometheus,maven,gradle,git,github,bitbucket,idea,linux&perline=11" alt="Tech stack icons" width="100%"/>
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,go,kafka,rabbitmq,graphql,react,angular,ts,nodejs,postgres,mysql,mongodb,cassandra,dynamodb,elasticsearch,redis,docker,kubernetes,openshift,openstack,nginx,terraform,ansible,aws,gcp,jenkins,githubactions,grafana,prometheus,maven,gradle,git,github,bitbucket,idea,linux,bash&perline=13" alt="Tech stack icons" width="100%"/>
   </a>
 </p>
+
+**Platform & tooling**
+
+![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat&logo=keycloak&logoColor=white)
+![Camunda](https://img.shields.io/badge/Camunda-FC5D0D?style=flat&logo=camunda&logoColor=white)
+![Axon Framework](https://img.shields.io/badge/Axon_Framework-1C77C3?style=flat)
+![Debezium](https://img.shields.io/badge/Debezium-48A23F?style=flat)
+![ActiveMQ](https://img.shields.io/badge/ActiveMQ-D22128?style=flat)
+![Avro](https://img.shields.io/badge/Avro_%2B_Schema_Registry-1A6496?style=flat)
+![Neo4j](https://img.shields.io/badge/Neo4j-018BFF?style=flat&logo=neo4j&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat&logo=opentelemetry&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
+![Testcontainers](https://img.shields.io/badge/Testcontainers-291A3F?style=flat)
 
 **AI / LLM**
 
 ![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat&logo=spring&logoColor=white)
 ![LangChain4j](https://img.shields.io/badge/LangChain4j-1C3C3C?style=flat)
+![Embabel](https://img.shields.io/badge/Embabel-1E3A5F?style=flat)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat&logo=modelcontextprotocol&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-6467F2?style=flat&logo=openrouter&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
 ![Llama](https://img.shields.io/badge/Llama-0467DF?style=flat&logo=meta&logoColor=white)
